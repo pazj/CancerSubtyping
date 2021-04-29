@@ -1,7 +1,7 @@
-# CancerSubtyping
+# Cancer Subtyping
 Cancer subtyping using ML
 
-Dept. of Computer Software Engineering 2020.11.30
+Hanyang University, Dept. of Computer Software Engineering 2020.11.30
 
 SW프로젝트 요약서
 
